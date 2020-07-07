@@ -6,4 +6,4 @@
 - Push changes and see them live!
 
 
-Please msg me @ <nickg@ethereum.org> if you'd like to see some changes to this website.
+Please leave us a message on the [ethpm gitter channel](http://gitter.im/ethpm) if you'd like to see some changes to this website.

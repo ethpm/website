@@ -1,3 +1,2 @@
 
-Ethereum Package Manager v2
-
+Ethereum Package Manager v3
